@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This folder contains the source of an simple Node server in Typescript. This is used as an evolutive exercice for the class. Among the weeks we are going to code in this environment.
+This$ folder contains the source of an simple Node server in Typescript. This is used as an evolutive exercice for the class. Among the weeks we are going to code in this environment.
 
 ## How to start
 
