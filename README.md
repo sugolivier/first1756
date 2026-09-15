@@ -10,7 +10,7 @@ The source code is written in Typescript, following it must be transpilled into 
 
 ### Transpilation TS->JS
 
-In the main folder use the commande€
+In the main folder use the commande
 
 ```bash
 npm run build
