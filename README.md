@@ -13,7 +13,7 @@ The source code is written in Typescript, following it must be transpilled into 
 In the main folder use the commande
 
 ```bash
-npm run build
+npm run buildn
 ```
 
 This will procude a new folder "exec" containing the JS code. Note that this command uses the `-w` flag and will watche for changes in the "src" folder and automatically transforms the TS code into JS.
